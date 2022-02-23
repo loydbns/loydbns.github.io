@@ -1,4 +1,4 @@
-#Kali WSL2 MSF数据库无法启动.md
+# Kali WSL2 MSF数据库无法启动.md
 # 问题描述：
 
 在启动postgresql及后续初始化时出现如下报错：
